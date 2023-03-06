@@ -15,7 +15,7 @@ Unit test - usually we are verifying the output of a function
 
 Entry Point - The input of the test
 
-Exit Point - the effect after applying the data to the SUT
+Exit Point(s) - the effect after applying the data to the SUT
 
 ---
 ## `Write more pure functions`
