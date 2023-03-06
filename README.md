@@ -4,7 +4,7 @@ Before it starts, can you tell -
 
 - What is unit in unit testing?
 - What are you testing?
-- Do need to know the output to test, but do you have to type the expected yourself?
+- Do you need to know the output to test, but do you have to type the expected yourself?
 - What is the meaning of testable codes? (aka easier to test)
 
 ## Terms 
