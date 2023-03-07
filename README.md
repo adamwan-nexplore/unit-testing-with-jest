@@ -149,5 +149,5 @@ https://github.com/nock/nock#recording
 
 Reference
 - [The Art of Unit Testing - 3rd Edition (In Javascript)](https://www.manning.com/books/the-art-of-unit-testing-third-edition)
-- Refactoring: Improving the Design of Existing Code - 2nd Edition (In Javascript)
 - [Xunit Patterns.com](http://xunitpatterns.com/Mocks,%20Fakes,%20Stubs%20and%20Dummies.html)
+- [The Art of Unit Testing • Roy Osherove & Dave Farley • GOTO 2021](https://www.youtube.com/watch?v=6ndAWzc2F-I)
