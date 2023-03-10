@@ -1,4 +1,4 @@
-# Refactor the code a bit & Write some good unit tests
+# Write some good unit tests
 
 Before it starts, can you tell -
 
