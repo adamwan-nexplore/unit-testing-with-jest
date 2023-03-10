@@ -7,22 +7,22 @@ Before it starts, can you tell -
 - Do you need to know the output to test, but do you have to type the expected yourself?
 - What is the meaning of testable codes? (aka easier to test)
 
-## Terms 
+## The Terms 
 
 SUT - Subject Under Test
 
-Unit test - usually we are verifying the output of a function 
+Unit test - Test whether a unit is working as `expected`. Usually we verify the output of a function.
 
 Entry Point - The input of the test
 
-Exit Point(s) - the effect after applying the data to the SUT
+Exit Point(s) - The effect / output after the input was applyed to the SUT
 
 ---
 ## `Write more pure functions`
 
 a. pure functions
 
-    -> return value / error (the most easiest to notice
+    -> return value / error (the most easiest to notice the change)
 
 b. impure functions
 
