@@ -35,7 +35,7 @@ b. impure functions
 
 We should reduce the number of impure functions. We should group those together, or at least in a managed way.
 
-Do not dream of eliminate those entirely. We need to store something bu the use of impure functions.
+Do not dream of eliminate those entirely. We need to store in our disk using of impure functions.
 
 ---
 
